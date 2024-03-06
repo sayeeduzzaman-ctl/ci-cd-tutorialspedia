@@ -33,7 +33,7 @@
 					<cloudHubDeployment>
 						<uri>htps://anypoint.mulesoft.com</uri>
 						<muleVersion>4.5.3</muleVersion>
-						<userName>sayeedmule2</userName>
+						<username>sayeedmule2</username>
 						<password>Abc1234!</password>
 						<applicationName>CICD-Tutorialspedia</applicationName>
 						<environment>Sandbox</environment>
